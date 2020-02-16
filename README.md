@@ -6,9 +6,9 @@ The outreach committee is here to welcome more developers into the .NET ecosyste
 - Empower underrepresented segments of the coder community to become leaders and contributors
 
 ## The committee has polled the .NET community and identified the following as 2020 priorities:
-    - Educating and assisting .NET developers in contributing to Open Source
-    - Conference sponsorships (travel, lodging, tickets)
-    - Affinity group outreach and sponsorship
+    Educating and assisting .NET developers in contributing to Open Source
+    Conference sponsorships (travel, lodging, tickets)
+    Affinity group outreach and sponsorship
 
 
 
