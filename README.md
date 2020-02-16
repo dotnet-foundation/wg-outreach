@@ -4,6 +4,7 @@ The outreach committee is here to welcome more developers into the .NET ecosyste
 ## The  high-level goals of the .NET Foundation Outreach Committee are:
 - Encourage new developers to build with .NET
 - Empower underrepresented segments of the coder community to become leaders and contributors
+- Assist event organizers with evangelism and growth
 
 ## The committee has polled the .NET community and identified the following as 2020 priorities:
     Educating and assisting .NET developers in contributing to Open Source
