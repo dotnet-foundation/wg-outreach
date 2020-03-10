@@ -5,7 +5,7 @@ Proposals are reviewed on a first-come-first-served basis.
 
 ## Proposal Alignment and Submission
 
-Proposals for Outreach should align with our goals and priorities. They should be added with a pull request to the [Proposals]("./Proposals") folder. They should include the following information:
+Proposals for Outreach should align with our goals and priorities. They should be added with a pull request to the [Proposals](./Proposals) folder. They should include the following information:
 
 - Title
 - Description
