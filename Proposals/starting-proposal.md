@@ -39,5 +39,5 @@ I am currently handling all the tutoring myself and could use a volunteer from t
 
 From the number of students that complete the C# track on this programme, and the number of C# signups the next version has.
 
-I will close by saying myself and thousands of Nigerian developers today wenth through either this programme, or others like it. It is a real oppurtunity for the foundation to key into a place that is non-typical for it.
+I will close by saying myself and thousands of Nigerian developers today went through either this programme, or others like it. It is a real oppurtunity for the foundation to key into a place that is non-typical for it.
 
