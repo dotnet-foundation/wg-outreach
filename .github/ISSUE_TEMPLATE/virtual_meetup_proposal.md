@@ -9,6 +9,19 @@ assignees: clairernovotny, jongalloway, sarajchipps, jamesmontemagno
 ### Title
 Your session name here
 
+###  User Group Association (if any)
+* Name: Seattle Mobile .NET (Xamarin) User Group
+* URL: https://www.meetup.com/SeattleMobileDevelopers/
+
+### Streaming Support
+* [ ] Hosting, streaming, & archiving on .NET Foundation YouTube
+* [ ] Allowed to make public after stream
+
+Fill in [x] or leave [ ] if not needed.
+
+### Date, Time, Time Zone
+February 31st at 5PM Pacific
+
 ### Presenter Info
 Name, Title, Company
 
@@ -17,13 +30,6 @@ Name, Title, Company
 * Blockchain
 * Microservices
 * The internet (a series of tubes)
-
-###  User Group Association (if any)
-* Name: Seattle Mobile .NET (Xamarin) User Group
-* URL: https://www.meetup.com/SeattleMobileDevelopers/
-
-### Date, Time, Time Zone
-February 31st at 5PM Pacific
 
 ### Abstract
 
