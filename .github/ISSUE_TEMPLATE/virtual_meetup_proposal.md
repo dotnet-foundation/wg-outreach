@@ -14,7 +14,7 @@ Your session name here
 * URL: https://www.meetup.com/SeattleMobileDevelopers/
 
 ### Streaming Support
-[ ] Live streaming to the .NET Foundation YouTube channel
+- [ ] Live streaming to the .NET Foundation YouTube channel
 
 Fill in [x] or leave [ ] if not needed.
 
