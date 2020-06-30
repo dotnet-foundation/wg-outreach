@@ -44,3 +44,5 @@ Name, Title, Company
 In this session...
 
 ### Speaker Bio
+
+### Language (if not English)
