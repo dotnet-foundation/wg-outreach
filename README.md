@@ -17,6 +17,8 @@ This group meets monthly on the 3rd Tuesday of the Month at 3p EST. Meetings are
 ### Proposals
 If you have a proposal that you'd like to see take flight, please check out our [guide to proposals](./proposals.md). 
 
+### Virtual Meetups
+To participate in the [.NET Virtual Meetup](https://www.meetup.com/dotnet-virtual-user-group/) and have your meeetup streamed on the [.NET Foundation You Tube](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A) account please submit your meetup information via [this form](https://bit.ly/2OohRR2). 
 
 
 
