@@ -1,5 +1,5 @@
 # Welcome to the Outreach Committee
-The outreach committee is here to welcome more developers into the .NET ecosystem. We welcome diversity of platform from Unix to Windows and of background from students to seniors. We are here to help you organize and evangelize. 
+The outreach committee is here to welcome more developers into the .NET ecosystem. We welcome a diversity of platforms from Unix to Windows and backgrounds from students to seniors. We are here to help you organize and evangelize. 
 
 ## The  high-level goals of the .NET Foundation Outreach Committee are:
 - Encourage new developers to build with .NET
