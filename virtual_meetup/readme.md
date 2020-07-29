@@ -12,4 +12,4 @@ Are you a .NET user group that is already hosting online meetups? Submit your ne
 
 ## Go Online with .NET Foundation
 
-Still looking to get your user group online but don't know where to start? Let the .NET Foundation take care of all of the streaming with our super simple user group hosting platform. Just [fillout the submittion form](https://bit.ly/2OohRR2) and request streaming support. The .NET Foundation will create a YouTube event that you can post for your attendees and assist you day of to make your user group a success!
+Still looking to get your user group online but don't know where to start? Let the .NET Foundation take care of all of the streaming with our super simple user group hosting platform. Just [fill out the submittion form](https://bit.ly/2OohRR2) and request streaming support. The .NET Foundation will create a YouTube event that you can post for your attendees and assist you day of to make your user group a success!
