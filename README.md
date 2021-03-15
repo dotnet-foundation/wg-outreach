@@ -24,7 +24,7 @@ We have several ongoing Outreach initiatives that will benefit from motivated Fo
 ## Current Initiatives
 
 ### Virtual Meetups
-To participate in the [.NET Virtual Meetup](https://www.meetup.com/dotnet-virtual-user-group/) or to have your local community's meeetup streamed on the [.NET Foundation YouTube](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A) account, please submit your meetup information via [this form](https://bit.ly/2OohRR2). You can read more about the Virtual Meetups at [.NET Foundation Virtual Meetups](/community/virtual-user-group).
+To participate in the [.NET Virtual Meetup](https://www.meetup.com/dotnet-virtual-user-group/) or to have your local community's meeetup streamed on the [.NET Foundation YouTube](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A) account, please submit your meetup information via [this form](https://bit.ly/2OohRR2). You can read more about the Virtual Meetups at [.NET Foundation Virtual Meetups](/virtual_meetup).
 
 ### Underrepresented Communities
 Recently, the Outreach Committee has taken the first steps toward its goal of empowering leaders and contributors in growing .NET communities in underrepresented areas around the world. We already know that amazing developers and community organizers can be found everywhere. Our goal—working with leaders in Africa, South Asia, and South and Central America—is to promote the work of these communities and to foster improved cross-collaboration and learning among such geographically widespread and diverse developers.
