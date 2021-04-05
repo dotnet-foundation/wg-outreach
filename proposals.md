@@ -1,11 +1,10 @@
-# Outreach Proposals - WiP
+# Outreach Committee Proposal Process 
 
-Members can secure resources from the .NET Foundation to lead and implement outreach initiatives. Initiatives will be determined via the proposal process. They will be prioritized and voted on based on the size of impact and interest. Committees will be formed around initiatives and will check in with the Outreach group in monthly meetings. 
-Proposals are reviewed on a first-come-first-served basis. 
+Members can secure resources from the .NET Foundation to lead and implement outreach initiatives. Initiatives will be determined via the proposal process. These proposals can be of any size, but should be towards the goals of extending the reach of .NET and membership of the .NET Foundation in general. 
 
-## Proposal Alignment and Submission
+## How Do I Make a Proposal?
 
-Proposals for Outreach should align with our goals and priorities. They should be added with a pull request to the [Proposals](./Proposals) folder. They should include the following information:
+If you have an idea or project that you want propose to the .NET Foundation's Outreach Committee, simple visit [Issues](https://github.com/dotnet-foundation/wg-outreach/issues/new/choose) and fill out the proposal template. The information you will need for the proposal include: 
 
 - Title
 - Description
@@ -14,3 +13,23 @@ Proposals for Outreach should align with our goals and priorities. They should b
 - Size of Comittee Requested (how many people do you need to get this off the ground)
 - Which Goal and Priority is this project aligned with
 - How will we know this project has been successful?
+
+## What is the Proposal Approval Process?
+
+Proposals will be reviewed on a first-come, first-served basis. Each Proposal will be reviewed in several steps:
+
+1. **Initial Response**: Within seven-days of submission, one of the committee members will respond the Issue created with a short reponse of when we will move to the second part of the approval. The committee member who responds shall be responsible for getting the proposal added to the next monthly Outreach Committee meeting.
+2. **Committee Meeting**: During the next monthly Outreach Committee meeting, a discussion will be had if the proposal has merit and is within the budget of the Outreach committee. This step usually will result in one of four possible results:
+   a. Approved.
+   b. Declined.
+   c. Need more information (Proposal owner may be asked to attend the Outreach Committee to discuss the proposal).
+   d. Need to bring the proposal to the .NET Foundation Board meeting (usually required if needed more than Outreach has for budget).
+3. **Board Meeting**: As is necessary, we will bring proposals to the .NET Foundation Board of Directors to get approval to use additional budget if possible. 
+
+## What Kinds of Proposals are We Looking For?
+
+We are looking for proposals large and small that help us reach communities of all different types. We are interested in proposals that help expose developers to .NET around the world.  
+
+> Work in Progress (WIP><br/>
+> Version: 1.0 (Draft)<br/>
+> Last Updated: 04/05/2021
