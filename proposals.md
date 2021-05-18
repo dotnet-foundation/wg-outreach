@@ -30,6 +30,6 @@ Proposals will be reviewed on a first-come, first-served basis. Each Proposal wi
 
 We are looking for proposals large and small that help us reach communities of all different types. We are interested in proposals that help expose developers to .NET around the world.  
 
-> Work in Progress (WIP><br/>
-> Version: 1.0 (Draft)<br/>
-> Last Updated: 04/05/2021
+> Approved><br/>
+> Version: 1.0<br/>
+> Last Updated: 05/11/2021
