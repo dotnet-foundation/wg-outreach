@@ -74,6 +74,17 @@ This committee meets every second and fourth Wednesday of the month, usually at 
 
 To get involved, [request to join the education team on GitHub](https://github.com/orgs/dotnet-foundation/teams/education/members) using the "Request to join" button. 
 
+### [Sponsorship Committee](https://github.com/dotnet-foundation/wg-corporate-relations)
+
+The sponsorship committee is here to help engage and grow corporate sponsors, focused on initiatives that help provide sponsors that help fund the operation of the .NET Foundation with opportunities to engage and inform the .NET community. As part of this committee:
+- You work to enhance coprorate sponsorship to provide value to corporations sponsoring the .NET Foundation.
+- You help grow the .NET community by promoting & increasing corporate membership.
+- You come up with ways to increase corporate engagement in the .NET open-source community as a whole.
+
+**TODO MEETING SCHEDULE**. If you're passionate about larger corporations giving back to the .NET community, and want to come up with ways to attract and retain corporate sponsors; this is the committee for you!
+
+**TODO HOW TO JOIN**
+
 ### [Membership Committee](https://github.com/dotnet-foundation/wg-membership)
 
 The Membership Committee reviews incoming member applications against the eligibility criteria, which the committee also periodically reviews and amends as needed. As a member of this committee:
