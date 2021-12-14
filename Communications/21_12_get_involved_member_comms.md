@@ -81,9 +81,9 @@ The sponsorship committee is here to help engage and grow corporate sponsors, fo
 - You help grow the .NET community by promoting & increasing corporate membership.
 - You come up with ways to increase corporate engagement in the .NET open-source community as a whole.
 
-**TODO MEETING SCHEDULE**. If you're passionate about larger corporations giving back to the .NET community, and want to come up with ways to attract and retain corporate sponsors; this is the committee for you!
+This committee meets every third Wednesday of the month, usually at 13:00 ET for up to an hour. If you're passionate about larger corporations giving back to the .NET community, and want to come up with ways to attract and retain corporate sponsors; this is the committee for you!
 
-**TODO HOW TO JOIN**
+To get involved, [send an email](mailto:javier.lozano@dotnetfoundation.org) to [@jglozano](https://github.com/jglozano) (the chairperson). 
 
 ### [Membership Committee](https://github.com/dotnet-foundation/wg-membership)
 
