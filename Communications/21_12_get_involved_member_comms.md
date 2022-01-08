@@ -26,9 +26,7 @@ The Projects Committee reviews incoming project applications against the eligibi
 - You discuss with other committee members to ensure the eligibility criteria stays up-to-date and reflects the .NET Foundation's goals.
 - You work with maintainers of eligible projects to onboard into the .NET Foundation, and keep an eye on those that aren't eligible to occasionally re-review to see if they become eligible over time.
 
-This committee meets every second Thursday of the month. If you want to help us define what it means to be a .NET Foundation project, as well as help us figure out which projects to onboard into the Foundation's diverse roster; this is the committee for you!
-
-To get involved, [open a discussion in the Projects Commitee section of dotnet-foundation/Home](https://github.com/dotnet-foundation/Home/discussions/categories/projects-committee) and include [@sbwalker](https://github.com/sbwalker) (the chairperson) on the discussion.
+The meeting cadence for this commitee & how to get involved is uncertain at this time. Watch this space if this is the committee for you!
 
 ### [Maintainers Committee](https://github.com/dotnet-foundation/wg-maintainers)
 
@@ -70,9 +68,7 @@ The education committee is here to develop, sponsor, and provide educational opp
 - You work to empower those who are underrepresented and underserved in the community.
 - You help the committee partner and run educational opportunities that train new and existing .NET developers.
 
-This committee meets every second and fourth Wednesday of the month, usually at 11:00 ET for up to an hour. If you're passionate about training up the .NET community with engaging educational content and initiatives, this is the committee for you!
-
-To get involved, [request to join the education team on GitHub](https://github.com/orgs/dotnet-foundation/teams/education/members) using the "Request to join" button. 
+The meeting cadence for this commitee & how to get involved is uncertain at this time. Watch this space if this is the committee for you!
 
 ### [Sponsorship Committee](https://github.com/dotnet-foundation/wg-corporate-relations)
 
