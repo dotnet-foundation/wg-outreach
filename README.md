@@ -17,7 +17,7 @@ If you'd like to see what we're working on, please visit us at our GitHub Workin
 - Affinity group outreach and sponsorship
 
 ## Joining the Committee & Meetings
-The Outreach Committee currently meets for one hour on the **2nd Tuesday of every month at 3:00 pm ET**. Meetings are held on Microsoft Teams. If you are passionate about Community Outreach and .NET Advocacy, we would love to hear from you! To join the the committee and the meetings, _please request to [join the outreach team](https://github.com/orgs/dotnet-foundation/teams/outreach)_ and then post a message there with your desire to be added to the meeting invite.
+The Outreach Committee currently meets for one hour on the **2nd Tuesday of every month at 3:00 pm ET**. Meetings are held on Microsoft Teams. If you are passionate about Community Outreach and .NET Advocacy, we would love to hear from you! To join the the committee and the meetings, _please request to [join the outreach team](https://github.com/orgs/dotnet-foundation/teams/outreach/members) and then post a message there with your desire to be added to the meeting invite.
 
 We have several ongoing Outreach initiatives that will benefit from motivated Foundation members who can commit some of their volunteer time toward making the .NET ecosystem more welcoming and robust for communities around the world.
 
