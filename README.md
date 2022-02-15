@@ -33,5 +33,5 @@ Recently, the Outreach Committee has taken the first steps toward its goal of em
 The Outreach Committee is actively shepherding an effort to create a global .NET speaker directory. If you are a speaker from anywhere around the world and you want to help user groups and conferences find you for .NET topics, the [speaker directory](https://dotnetfoundation.org/community/speakers) can help! 
 
 ## Proposals
-We are about empowering you and your organizations. If you have an idea of how we can help, please post an Issue in the GitHub repository for the working group. You can see more about the proposal process (still a work-in-progress) in our [guide to proposals](https://github.com/dotnet-foundation/wg-outreach/blob/master/proposals.md). 
+We are about empowering you and your organizations. If you have an idea of how we can help, please post an [Issue](https://github.com/dotnet-foundation/wg-outreach/issues/new/choose) in the GitHub repository for the working group. You can see more about the proposal process (still a work-in-progress) in our [guide to proposals](https://github.com/dotnet-foundation/wg-outreach/blob/master/proposals.md). 
 
