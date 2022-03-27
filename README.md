@@ -30,8 +30,8 @@ To participate in the [.NET Virtual Meetup](https://www.meetup.com/dotnet-virtua
 Recently, the Outreach Committee has taken the first steps toward its goal of empowering leaders and contributors in growing .NET communities in underrepresented areas around the world. We already know that amazing developers and community organizers can be found everywhere. Our goal—working with leaders in Africa, South Asia, and South and Central America—is to promote the work of these communities and to foster improved cross-collaboration and learning among such geographically widespread and diverse developers.
 
 ### Speaker Directory
-The Outreach Committee is actively shepherding an effort to create a global .NET speaker directory. If you are a speaker from anywhere around the world and you want to help user groups and conferences find you for .NET topics, the speaker directory can help!  Please watch this space for more news on the launch of the Speaker Directory!
+The Outreach Committee is actively shepherding an effort to create a global .NET speaker directory. If you are a speaker from anywhere around the world and you want to help user groups and conferences find you for .NET topics, the [speaker directory](https://dotnetfoundation.org/community/speakers) can help! 
 
 ## Proposals
-We are about empowering you and your organizations. If you have an idea of how we can help, please post an Issue in the GitHub repository for the working group. You can see more about the proposal process (still a work-in-progress) in our [guide to proposals](https://github.com/dotnet-foundation/wg-outreach/blob/master/proposals.md). 
+We are about empowering you and your organizations. If you have an idea of how we can help, please post an [Issue](https://github.com/dotnet-foundation/wg-outreach/issues/new/choose) in the GitHub repository for the working group. You can see more about the proposal process (still a work-in-progress) in our [guide to proposals](https://github.com/dotnet-foundation/wg-outreach/blob/master/proposals.md). 
 
