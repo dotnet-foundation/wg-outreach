@@ -1,8 +1,8 @@
 # Notes from April User Group Townhall
 
-Date: April 20th 2022
-Slide Deck: https://github.com/dotnet-foundation/wg-outreach/blob/master/Meetings/usergroup/04-20-2022-town-hall.pptx?raw=true
-Recording: https://www.youtube.com/watch?v=Y6u8qbWigT4
+* Date: April 20th 2022
+* Slide Deck: https://github.com/dotnet-foundation/wg-outreach/blob/master/Meetings/usergroup/04-20-2022-ug-townhall.pptx?raw=true
+* Recording: https://www.youtube.com/watch?v=Y6u8qbWigT4
 
 In attendance:
 * Jayme Singleton
