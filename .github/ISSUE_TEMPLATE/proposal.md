@@ -2,7 +2,7 @@
 name: Project Proposal
 about: Proposal for the Outreach Working Group
 labels: proposals
-assignees: shawnwildermuth
+assignees: jguadagno
 ---
 
 ## Title: 
@@ -17,7 +17,7 @@ _e.g. 10,000 students_
 ## Requested Budget:
 _e.g. $100_
 
-## Size of Committee Requested:
+## Size of the Committee Requested:
 _e.g. 3 volunteers_
 
 ## Which Goal and Priority is this project aligned with:
