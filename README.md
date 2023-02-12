@@ -1,12 +1,12 @@
-# Welcome 
+# Welcome
 
-The Outreach Committee is here to welcome developers of all backgrounds, education, and technology ecosystems into the .NET ecosystem. We are here to help you organize and evangelize. 
+The Outreach Committee is here to welcome developers of all backgrounds, education, and technology ecosystems into the .NET ecosystem. We are here to help you organize and evangelize.
 
 ## Working Group
 
 If you'd like to see what we're working on, please visit us at our GitHub Working Group:
 
-> https://github.com/dotnet-foundation/wg-outreach
+> <https://github.com/dotnet-foundation/wg-outreach>
 
 ## High-Level Goals of the .NET Foundation Outreach Committee
 
@@ -18,13 +18,13 @@ If you'd like to see what we're working on, please visit us at our GitHub Workin
 
 ***NOTE:*** The committee is in the process of coming up with the 2023 priorities. If you have any ideas, please [submit a proposal](/Proposals/starting-proposal.md)
 
-* Educating and assisting .NET developers in contributing to Open Source Software 
-* Conference sponsorships (_e.g._, travel, lodging, tickets) _(post-COVID)_
+* Educating and assisting .NET developers in contributing to Open Source Software
+* Conference sponsorships (*e.g.*, travel, lodging, tickets) *(post-COVID)*
 * Affinity group outreach and sponsorship
 
 ## Joining the Committee & Meetings
 
-The Outreach Committee currently meets for one hour on the **2nd Tuesday of every month at 3:00 pm ET**. Meetings are held on Microsoft Teams. If you are passionate about Community Outreach and .NET Advocacy, we would love to hear from you! To join the the committee and the meetings, _please request to [join the outreach team](https://github.com/dotnet-foundation/wg-outreach/issues/new?assignees=shawnwildermuth&labels=membership&template=membership.md) and then post a message there with your desire to be added to the meeting invite.
+The Outreach Committee currently meets for one hour on the **2nd Monday of every month at 2:00 pm ET**. Meetings are held on Microsoft Teams. If you are passionate about Community Outreach and .NET Advocacy, we would love to hear from you! To join the committee and the meetings, _please request to [join the outreach team](https://github.com/dotnet-foundation/wg-outreach/issues/new?assignees=shawnwildermuth&labels=membership&template=membership.md) and then post a message there with your desire to be added to the meeting invite.
 
 We have several ongoing Outreach initiatives that will benefit from motivated Foundation members who can commit some of their volunteer time toward making the .NET ecosystem more welcoming and robust for communities around the world.
 
@@ -40,9 +40,8 @@ Recently, the Outreach Committee has taken the first steps toward its goal of em
 
 ### Speaker Directory
 
-The Outreach Committee is actively shepherding an effort to create a global .NET speaker directory. If you are a speaker from anywhere around the world and you want to help user groups and conferences find you for .NET topics, the [speaker directory](https://dotnetfoundation.org/community/speakers) can help! 
+The Outreach Committee is actively shepherding an effort to create a global .NET speaker directory. If you are a speaker from anywhere around the world, and you want to help user groups and conferences find you for .NET topics, the [speaker directory](https://dotnetfoundation.org/community/speakers) can help!
 
 ## Proposals
 
-We are about empowering you and your organizations. If you have an idea of how we can help, please post an [Issue](https://github.com/dotnet-foundation/wg-outreach/issues/new/choose) in the GitHub repository for the working group. You can see more about the proposal process (still a work-in-progress) in our [guide to proposals](https://github.com/dotnet-foundation/wg-outreach/blob/master/proposals.md). 
-
+We are about empowering you and your organizations. If you have an idea of how we can help, please post an [Issue](https://github.com/dotnet-foundation/wg-outreach/issues/new/choose) in the GitHub repository for the working group. You can see more about the proposal process (still a work-in-progress) in our [guide to proposals](https://github.com/dotnet-foundation/wg-outreach/blob/master/proposals.md).
