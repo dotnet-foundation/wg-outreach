@@ -11,16 +11,16 @@ If you'd like to see what we're working on, please visit us at our GitHub Workin
 ## High-Level Goals of the .NET Foundation Outreach Committee
 
 * Encourage new developers to build with .NET
-* Empower underrepresented segments of the coder community to become leaders and contributors
-* Assist event organizers with evangelism and growth
+* Empower underrepresented regions to spawn leaders and contributors in the .NET community.
+* Assist event and/or user group organizers with evangelism and growth of attendance
 
 ## The Committee Polled the .NET Community and Identified 2020-21 Priorities
 
 ***NOTE:*** The committee is in the process of coming up with the 2023 priorities. If you have any ideas, please [submit a proposal](/Proposals/starting-proposal.md)
 
-* Educating and assisting .NET developers in contributing to Open Source Software
-* Conference sponsorships (*e.g.*, travel, lodging, tickets) *(post-COVID)*
-* Affinity group outreach and sponsorship
+* ~~Educating and assisting .NET developers in contributing to Open Source Software~~
+* ~~Conference sponsorships (*e.g.*, travel, lodging, tickets) *(post-COVID)*~~
+* ~~Affinity group outreach and sponsorship~~
 
 ## Joining the Committee & Meetings
 
