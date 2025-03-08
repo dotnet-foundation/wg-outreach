@@ -32,7 +32,7 @@ We have several ongoing Outreach initiatives that will benefit from motivated Fo
 
 ### Virtual Meetups
 
-To participate in the [.NET Virtual Meetup](https://www.meetup.com/dotnet-virtual-user-group/) or to have your local community's meeetup streamed on the [.NET Foundation YouTube](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A) account, please submit your meetup information via [this form](https://bit.ly/2OohRR2). You can read more about the Virtual Meetups at [.NET Foundation Virtual Meetups](/virtual_meetup).
+To participate in the [.NET Virtual Meetup](https://www.meetup.com/dotnet-virtual-user-group/) or to have your local community's meetup streamed on the [.NET Foundation YouTube](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A) account, please submit your meetup information via [this form](https://bit.ly/2OohRR2). You can read more about the Virtual Meetups at [.NET Foundation Virtual Meetups](/virtual_meetup).
 
 ### Underrepresented Communities
 
