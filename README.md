@@ -1,12 +1,22 @@
+<p align="center">
+  <img src="./img/dotnetfdn.png" />
+</p>
+
 # Welcome
 
-The Outreach Committee is here to welcome developers of all backgrounds, education, and technology ecosystems into the .NET ecosystem. We are here to help you organize and evangelize.
+The Outreach Committee is here to welcome developers of all backgrounds, education, and technology ecosystems into the .NET ecosystem. We are here to help you organize and evangelize. [See more about .NET Foundation committees here](https://dotnetfoundation.org/community/committees).
 
-## Working Group
+**Chairperson(s):** Lou Creemers
 
-If you'd like to see what we're working on, please visit us at our GitHub Working Group:
+**Meets:** 2nd Monday of every month at 4:00 pm ET (8:00 pm UTC during winter / 7:00pm UTC otherwise)
 
-> <https://github.com/dotnet-foundation/wg-outreach>
+**Meeting Link:** <https://discord.gg/tvYjX73wUW> (Look under events)
+
+**Repository:** https://github.com/dotnet-foundation/wg-outreach
+
+## Contributing
+
+Please refer to our [Contributing file](./.github/CONTRIBUTING.md) for how to contribute.
 
 ## High-Level Goals of the .NET Foundation Outreach Committee
 
@@ -14,17 +24,18 @@ If you'd like to see what we're working on, please visit us at our GitHub Workin
 * Empower underrepresented regions to spawn leaders and contributors in the .NET community.
 * Assist event and/or user group organizers with evangelism and growth of attendance
 
-## The Committee Polled the .NET Community and Identified 2020-21 Priorities
-
-***NOTE:*** The committee is in the process of coming up with the 2023 priorities. If you have any ideas, please [submit a proposal](/Proposals/starting-proposal.md)
-
-* ~~Educating and assisting .NET developers in contributing to Open Source Software~~
-* ~~Conference sponsorships (*e.g.*, travel, lodging, tickets) *(post-COVID)*~~
-* ~~Affinity group outreach and sponsorship~~
 
 ## Joining the Committee & Meetings
 
-The Outreach Committee currently meets for one hour on the **2nd Monday of every month at 2:00 pm ET**. Meetings are held on Microsoft Teams. If you are passionate about Community Outreach and .NET Advocacy, we would love to hear from you! To join the committee and the meetings, _please request to [join the outreach team](https://github.com/dotnet-foundation/wg-outreach/issues/new?assignees=shawnwildermuth&labels=membership&template=membership.md) and then post a message there with your desire to be added to the meeting invite.
+The Outreach Committee currently meets for one hour on the **2nd Monday of every month at 4:00 pm ET**. Meetings are held on Microsoft Teams. If you are passionate about Community Outreach and .NET Advocacy, we would love to hear from you!
+
+To join the committee:
+- Join the [.NET Foundation Discord](https://discord.gg/tvYjX73wUW)
+- Join us for the next outreach meeting (see [Meeting Link](#meeting-link))
+- [Create an issue](https://github.com/dotnet-foundation/wg-outreach/issues/new/choose) using the "Membership Request" template
+- The chair will review the issue and act on it.
+
+Meeting notes are available in the [Meetings](Meetings) folder. This repo is public to support transparency and open participation. If you have questions, please open a discussion.
 
 We have several ongoing Outreach initiatives that will benefit from motivated Foundation members who can commit some of their volunteer time toward making the .NET ecosystem more welcoming and robust for communities around the world.
 
@@ -32,7 +43,7 @@ We have several ongoing Outreach initiatives that will benefit from motivated Fo
 
 ### Virtual Meetups
 
-To participate in the [.NET Virtual Meetup](https://www.meetup.com/dotnet-virtual-user-group/) or to have your local community's meeetup streamed on the [.NET Foundation YouTube](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A) account, please submit your meetup information via [this form](https://bit.ly/2OohRR2). You can read more about the Virtual Meetups at [.NET Foundation Virtual Meetups](/virtual_meetup).
+To participate in the [.NET Virtual Meetup](https://www.meetup.com/dotnet-virtual-user-group/) or to have your local community's meetup streamed on the [.NET Foundation YouTube](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A) account, please submit your meetup information via [this form](https://bit.ly/2OohRR2). You can read more about the Virtual Meetups at [.NET Foundation Virtual Meetups](/virtual_meetup).
 
 ### Underrepresented Communities
 
@@ -44,4 +55,14 @@ The Outreach Committee is actively shepherding an effort to create a global .NET
 
 ## Proposals
 
-We are about empowering you and your organizations. If you have an idea of how we can help, please post an [Issue](https://github.com/dotnet-foundation/wg-outreach/issues/new/choose) in the GitHub repository for the working group. You can see more about the proposal process (still a work-in-progress) in our [guide to proposals](https://github.com/dotnet-foundation/wg-outreach/blob/master/proposals.md).
+We are about empowering you and your organizations. If you have an idea of how we can help, please post an [Issue](https://github.com/dotnet-foundation/wg-outreach/issues/new/choose) in the GitHub repository for the working group. You can see more about the proposal process (still a work-in-progress) in our [guide to proposals](https://github.com/dotnet-foundation/wg-outreach/blob/main/proposals.md).
+
+## Current Membership
+
+**Chair:** Lou Creemers
+
+**Scribe(s):** Angela Cruz
+
+## Code Of Conduct
+
+[See the Code of Conduct here](CODE_OF_CONDUCT.md).
