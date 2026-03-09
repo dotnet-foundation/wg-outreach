@@ -27,7 +27,7 @@ Please refer to our [Contributing file](./.github/CONTRIBUTING.md) for how to co
 
 ## Joining the Committee & Meetings
 
-The Outreach Committee currently meets for one hour on the **2nd Monday of every month at 4:00 pm ET**. Meetings are held on Microsoft Teams. If you are passionate about Community Outreach and .NET Advocacy, we would love to hear from you!
+The Outreach Committee currently meets for one hour on the **2nd Monday of every month at 4:00 pm ET**. Meetings are held on Discord. If you are passionate about Community Outreach and .NET Advocacy, we would love to hear from you!
 
 To join the committee:
 - Join the [.NET Foundation Discord](https://discord.gg/tvYjX73wUW)
